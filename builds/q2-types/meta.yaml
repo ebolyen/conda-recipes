@@ -26,7 +26,7 @@ requirements:
     - python
     - setuptools
     - scikit-bio
-    - qiime2 ==2017.2.*
+    - qiime2 2017.2.*
     - pandas
     - biom-format >=2.1.5,<2.2.0
     - ijson
@@ -36,7 +36,7 @@ requirements:
     - python
     - setuptools
     - scikit-bio
-    - qiime2 ==2017.2.*
+    - qiime2 2017.2.*
     - pandas
     - biom-format >=2.1.5,<2.2.0
     - ijson
